@@ -3,7 +3,7 @@ import "@styles/globals.css";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promptopia",
+  title: "PromptSparkler",
   description: "Discover & Share AI Prompts",
 };
 
